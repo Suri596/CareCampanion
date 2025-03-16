@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+transformers
+torch
+sentence-transformers
+scikit-learn
+pandas
+peft
+bitsandbytes
+imblearn
+pinecone
+pinecone-client
+langchain
