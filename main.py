@@ -91,7 +91,7 @@ Using: https://pinecone.com
 from tqdm.notebook import tqdm
 from pinecone import Pinecone
 
-pc = Pinecone(api_key="pcsk_3EjAp6_5kjBqYQdFDKNP3j7xt5zbbnZ8epXYQUau51K9s335cmpKvAWVkV2MGQzEVfYgfz")
+pc = Pinecone(api_key="")
 index = pc.Index("biobert-med")
 
 upsert_data = []
